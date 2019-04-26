@@ -1,4 +1,4 @@
-# Tipos de Datos Abstractos para Java. 
+# Tipos de Datos Abstractos para Java
 
 Colección de datos abstractos para Java
 
