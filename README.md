@@ -8,7 +8,7 @@ Colección de datos abstractos para Java
 - [Lista](#lista)
 - [Lista Circular](#lista-circular)
 - [Lista Doblemente Enlazada](#lista-doblemente-enlazada)
-- [Árbol](#arbol)
+- [Arbol](#arbol)
 
 
 ## Pila
@@ -23,4 +23,4 @@ Colección de datos abstractos para Java
 
 ## Lista Doblemente Enlazada
 
-## Árbol
+## Arbol
