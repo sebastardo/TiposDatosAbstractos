@@ -1,5 +1,6 @@
-# TiposDatosAbstractos
-Tipos de datos abstractos para Java. 
+# Tipos de Datos Abstractos para Java. 
+
+Colección de datos abstractos para Java
 
 ## Pila
 
