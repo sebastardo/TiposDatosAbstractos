@@ -3,7 +3,12 @@
 Colección de datos abstractos para Java
 
 ## Tabla de contenido
-- [Pila](#pila).
+- [Pila](#pila)
+- [Cola](#cola)
+- [Lista](#lista)
+- [Lista Circular](#lista-circular)
+- [Lista Doblemente Enlazada](#lista-doblemente-enlazada)
+- [Árbol](#arbol)
 
 
 ## Pila
