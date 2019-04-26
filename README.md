@@ -3,13 +3,21 @@
 Colección de datos abstractos para Java
 
 ## Tabla de contenido
+- [Nodo Simple](#nodo-simple)
+- [Nodo Doble](#nodo-doble)
 - [Pila](#pila)
 - [Cola](#cola)
 - [Lista](#lista)
 - [Lista Circular](#lista-circular)
 - [Lista Doblemente Enlazada](#lista-doblemente-enlazada)
 - [Arbol](#arbol)
+- [Dato](#dato)
+- [Main](#main)
 
+## Nodo Simple
+## Nodo Doble
+### Nodo
+### Hoja
 
 ## Pila
 
@@ -24,3 +32,10 @@ Colección de datos abstractos para Java
 ## Lista Doblemente Enlazada
 
 ## Arbol
+
+## Dato
+
+## Main
+
+
+
