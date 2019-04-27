@@ -29,19 +29,19 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ## Pila
 
-![1200px-Pila svg 1](https://user-images.githubusercontent.com/35445409/56833059-d8265880-6843-11e9-956b-d6147857c4c6.png)
+![Pila](https://user-images.githubusercontent.com/35445409/56833059-d8265880-6843-11e9-956b-d6147857c4c6.png)
 
 *Iba a hacer la pila de tamaño fijo, pero me olvide.*
 
 ## Cola
 
-![1200px-Cola svg 1](https://user-images.githubusercontent.com/35445409/56837414-b384ad80-6850-11e9-87de-86821a013994.png)
+![Cola](https://user-images.githubusercontent.com/35445409/56837414-b384ad80-6850-11e9-87de-86821a013994.png)
 
 *Al igual que en pila, olvide de hacer la cola de tamaño fijo.*
 
 ## Lista
 
-![Singly_linked_list 1](https://user-images.githubusercontent.com/35445409/56837463-e038c500-6850-11e9-8786-5c69acf9ba1d.png)
+![Lista simplemente enlazada](https://user-images.githubusercontent.com/35445409/56837463-e038c500-6850-11e9-8786-5c69acf9ba1d.png)
 
 ## Lista Circular
 
@@ -50,6 +50,7 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 *En este caso, para la lista circular se uso pila, con cola tambien se puede usar pero tenia muchas ganas...*
 
 ## Lista Doblemente Enlazada
+![Lista Doblemente Enlazada](https://user-images.githubusercontent.com/35445409/56856189-a688bc80-692b-11e9-9f74-86b9a9958232.jpg)
 
 ### LIsta Doblemente Enlazada Desordenada
 
