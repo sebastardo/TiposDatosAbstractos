@@ -54,8 +54,7 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ### LIsta Doblemente Enlazada Desordenada
 
-
-Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene sola, asi que la abandone e hice la que si va. Igualmente, me parecio que estaba bien dejarla (y me olvide de borrarla tambien).
+Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene sola, asi que la abandone e hice la que si va. Igualmente, me parecio que estaba bien dejarla (y me olvide de borrarla tambien). Esta puede quedar como la de la imagen, pero segun como se ingrese los datos, ya que es un tanto random donde se los ingresa.
 
 ## Arbol
 
