@@ -31,13 +31,13 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ![1200px-Pila svg 1](https://user-images.githubusercontent.com/35445409/56833059-d8265880-6843-11e9-956b-d6147857c4c6.png)
 
-* Iba a hacer la pila de tamaño fijo, pero me olvide. *
+*Iba a hacer la pila de tamaño fijo, pero me olvide.*
 
 ## Cola
 
 ![1200px-Cola svg 1](https://user-images.githubusercontent.com/35445409/56837414-b384ad80-6850-11e9-87de-86821a013994.png)
 
-* Al igual que en pila, olvide de hacer la cola de tamaño fijo. *
+*Al igual que en pila, olvide de hacer la cola de tamaño fijo.*
 
 ## Lista
 
@@ -47,7 +47,7 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ![1920px-Circularly-linked-list svg 1](https://user-images.githubusercontent.com/35445409/56837501-fc3c6680-6850-11e9-8f36-edaff26a706f.png)
 
-* En este caso, para la lista circular se uso pila, con cola tambien se puede usar pero tenia muchas ganas... *
+*En este caso, para la lista circular se uso pila, con cola tambien se puede usar pero tenia muchas ganas...*
 
 ## Lista Doblemente Enlazada
 
