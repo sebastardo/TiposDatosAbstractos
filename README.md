@@ -41,7 +41,7 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ## Lista
 
-![Lista simplemente enlazada](https://user-images.githubusercontent.com/35445409/56837463-e038c500-6850-11e9-8786-5c69acf9ba1d.png)
+![Lista simplemente enlazada](https://user-images.githubusercontent.com/35445409/56856219-2f9ff380-692c-11e9-9d5f-9fa3c6b27ff9.jpg)
 
 ## Lista Circular
 
