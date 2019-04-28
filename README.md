@@ -29,13 +29,31 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ## Pila
 
+
 ![Pila](https://user-images.githubusercontent.com/35445409/56833059-d8265880-6843-11e9-956b-d6147857c4c6.png)
+
+### Metodos
+* Crear (Constructor)
+* Vaciar
+* Vacia
+* Poner
+* Sacar
+* Ver Tope
+
 
 *Iba a hacer la pila de tamaño fijo, pero me olvide.*
 
 ## Cola
 
 ![Cola](https://user-images.githubusercontent.com/35445409/56837414-b384ad80-6850-11e9-87de-86821a013994.png)
+
+### Metodos
+* Crear (Constructor)
+* Vaciar
+* Vacia
+* Poner
+* Sacar
+* Ver Primero
 
 *Al igual que en pila, olvide de hacer la cola de tamaño fijo.*
 
