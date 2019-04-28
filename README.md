@@ -45,9 +45,9 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ## Lista Circular
 
-![1920px-Circularly-linked-list svg 1](https://user-images.githubusercontent.com/35445409/56837501-fc3c6680-6850-11e9-8f36-edaff26a706f.png)
+![Lista circular](https://user-images.githubusercontent.com/35445409/56837501-fc3c6680-6850-11e9-8f36-edaff26a706f.png)
 
-*En este caso, para la lista circular se uso pila, con cola tambien se puede hacer pero tenia no muchas ganas hacer todo de nuevo...*
+*En este caso, para la lista circular se uso pila, con cola tambien se puede hacer pero no tenia muchas ganas hacer todo de nuevo...*
 
 ## Lista Doblemente Enlazada
 ![Lista Doblemente Enlazada](https://user-images.githubusercontent.com/35445409/56856189-a688bc80-692b-11e9-9f74-86b9a9958232.jpg)
