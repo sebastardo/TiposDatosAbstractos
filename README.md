@@ -1,6 +1,6 @@
 # Tipos de Datos Abstractos para Java
 
-Colección de datos abstractos para Java. Los mismos estan en el package tda y estan armados para que se le pueda pasar cualquier dato sin necesidad de modificar los metodos principales (solo hay que tocar un par de comparación). 
+Colección de algunos datos abstractos para Java. Los mismos estan en el package tda y estan armados para que se le pueda pasar cualquier dato sin necesidad de modificar los metodos principales (solo hay que tocar un par de comparación). 
 
 ## Tabla de contenido
 - [Nodo Simple](#nodo-simple)
