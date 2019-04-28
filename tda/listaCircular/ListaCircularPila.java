@@ -13,6 +13,13 @@ public class ListaCircularPila {
     public ListaCircularPila() {
         lista=null;
     }
+    
+    /**
+     * Comprueba si esta vacia
+     */
+    public boolean vacia(){
+        return lista==null;
+    }
 
     /**
      * Insertar en lista.
