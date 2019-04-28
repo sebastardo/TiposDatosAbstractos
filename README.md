@@ -2,6 +2,8 @@
 
 Colección de algunos datos abstractos para Java. Los mismos estan en el package tda y estan armados para que se le pueda pasar cualquier dato sin necesidad de modificar los metodos principales (solo hay que tocar un par de comparación). 
 
+*Detalles de los metodos en proximos updates
+
 ## Tabla de contenido
 - [Nodo Simple](#nodo-simple)
 - [Nodo Doble](#nodo-doble)
@@ -20,7 +22,7 @@ Los atributos son public para que se accesen de otros paquetes, solo por eso.
 
 ## Nodo Doble
 Dentro del package nodoDoble se encuentran dos tipo de nodos. Aunque son iguales y podria tener el mismo nombre, seria complejo usar el mismo en lista circulares y arboles ya que dentro de esas TDAs funcionan de manera direfente.
-Al igual que el nodos simple, los atributos son publicos para facilitar el acceso de otros paquetes y no que haya
+Al igual que el nodos simple, los atributos son publicos para facilitar el acceso de otros paquetes.
 
 ### Nodo
 Nodo posee un tipo de datos y dos enlaces, al igual que simple, tiene un enlace a siguiente, pero tambien tiene un enlace llamado anterior, que en la TDA apuntaria al nodo que le precede si esta entre dos nodos o en el ultimo eslabon. Si fuese el primer eslabon de la lista circular, anterior apuntaria a null. Igualmente siguiente, si estuviese en el ultimo eslabon, apuntaria a null (si se usase en lista circular, seria otro tema pero aca no se lo implementa).
@@ -74,26 +76,84 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 * Eliminar
 * Insertar en orden
 * Insertar en orden sin repetidos
-*
+* isOrder
+* getTamanio
+* Mayor Menor Igual
+* Comparar
 
 ## Lista Circular
 
+Solo se desarrollo el tipo usando Pila. Posiblemente se haga una con cola y una sin ninguna de esas dos.
+
 ![Lista circular](https://user-images.githubusercontent.com/35445409/56837501-fc3c6680-6850-11e9-8f36-edaff26a706f.png)
+
+### Metodos
+* Crear (Constructor)
+* Vacia
+* Insertar
+* Sacar
+* Recorrer
+* Buscar
+* Borrar
+* Comparar
+
 
 *En este caso, para la lista circular se uso pila, con cola tambien se puede hacer pero no tenia muchas ganas hacer todo de nuevo...*
 
 ## Lista Doblemente Enlazada
+
 ![Lista Doblemente Enlazada](https://user-images.githubusercontent.com/35445409/56856189-a688bc80-692b-11e9-9f74-86b9a9958232.jpg)
+
+### Metodos
+* Crear (Constructor)
+* Vacia
+* Insertar
+* Buscar
+* Borrar
+* Mostrar desde el inicio
+* Mostrar desde el final
+* Mayor Menor Mostrar
+* Comparar
 
 ### LIsta Doblemente Enlazada Desordenada
 
 Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene sola, asi que la abandone e hice la que si va. Igualmente, me parecio que estaba bien dejarla (y me olvide de borrarla tambien). Esta puede quedar como la de la imagen, pero segun como se ingrese los datos, ya que es un tanto random donde se los ingresa.
 
 ## Arbol
+![Arbol binario](https://user-images.githubusercontent.com/35445409/56869007-ba3a2e80-69d0-11e9-9337-c18016c479f6.jpg)
+
+### Metodos
+* Crear (Constructor)
+* Mostrar
+* Preorden
+* Inorden
+* Posorden
+* Altura
+** Altura (publico)
+** contadorAltura (privado recursivo)
+* Cantidad de nodos
+** cantidadDeNodos (publico)
+** contarNodos (privado recursivo)
+* Cantidad de hojas
+** cantidadHojas (publico)
+** contarHojas (privado recursivo)
+* Arbol completo
+** esArbolCompleto (publico)
+** determinarCompleto (privado recursivo)
+* Arbol balanceado
+** esArbolBalanceado(publico)
+** determinarEsBalanceado (privado recursivo)
+* Cantidad de Nodos internos
+** cantidadNodosInternos (publico)
+** contarInternos (privado recursivo)
+* Buscar
+** buscar (publico)
+** buscarDato (privado recursivo)
+* Mayor Menor Mostrar
+* Comparar
 
 ## Dato
+Objeto con atributo int para poder hacer prueba, la idea es que se pueda usar cualquier objeto con todas las TDAs.
 
 ## Main
-
-
-
+Clase para hacer pruebas, deberia haberse usado tests pero bueno...
