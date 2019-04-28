@@ -2,7 +2,7 @@
 
 Colección de algunos datos abstractos para Java. Los mismos estan en el package tda y estan armados para que se le pueda pasar cualquier dato sin necesidad de modificar los metodos principales (solo hay que tocar un par de comparación). 
 
-*Detalles de los metodos en proximos updates
+*Detalles de los metodos en proximos updates*
 
 ## Tabla de contenido
 - [Nodo Simple](#nodo-simple)
@@ -120,6 +120,9 @@ Solo se desarrollo el tipo usando Pila. Posiblemente se haga una con cola y una 
 Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene sola, asi que la abandone e hice la que si va. Igualmente, me parecio que estaba bien dejarla (y me olvide de borrarla tambien). Esta puede quedar como la de la imagen, pero segun como se ingrese los datos, ya que es un tanto random donde se los ingresa.
 
 ## Arbol
+
+
+
 ![Arbol binario](https://user-images.githubusercontent.com/35445409/56869007-ba3a2e80-69d0-11e9-9337-c18016c479f6.jpg)
 
 ### Metodos
@@ -129,28 +132,35 @@ Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene
 * Inorden
 * Posorden
 * Altura
-** Altura (publico)
-** contadorAltura (privado recursivo)
+  - Altura (publico)
+  - contadorAltura (privado recursivo)
 * Cantidad de nodos
-** cantidadDeNodos (publico)
-** contarNodos (privado recursivo)
+  - cantidadDeNodos (publico)
+  - contarNodos (privado recursivo)
 * Cantidad de hojas
-** cantidadHojas (publico)
-** contarHojas (privado recursivo)
+  - cantidadHojas (publico)
+  - contarHojas (privado recursivo)
 * Arbol completo
-** esArbolCompleto (publico)
-** determinarCompleto (privado recursivo)
+  - esArbolCompleto (publico)
+  - determinarCompleto (privado recursivo)
 * Arbol balanceado
-** esArbolBalanceado(publico)
-** determinarEsBalanceado (privado recursivo)
+  - esArbolBalanceado(publico)
+  - determinarEsBalanceado (privado recursivo)
 * Cantidad de Nodos internos
-** cantidadNodosInternos (publico)
-** contarInternos (privado recursivo)
+  - cantidadNodosInternos (publico)
+  - contarInternos (privado recursivo)
 * Buscar
-** buscar (publico)
-** buscarDato (privado recursivo)
+  - buscar (publico)
+  - buscarDato (privado recursivo)
 * Mayor Menor Mostrar
 * Comparar
+
+### Metodos no implementado
+* AVL
+* Podar
+
+### Deprecated
+* agregarFeo
 
 ## Dato
 Objeto con atributo int para poder hacer prueba, la idea es que se pueda usar cualquier objeto con todas las TDAs.
