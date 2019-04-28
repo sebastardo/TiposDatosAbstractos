@@ -16,9 +16,11 @@ Colección de algunos datos abstractos para Java. Los mismos estan en el package
 
 ## Nodo Simple
 Se encuentra en el package nodoSimple y se utiliza para los TDA Pila, Cola, Lista y Lista Circular. Posee un solo enlace llamado siguiente y el dato.
+Los atributos son public para que se accesen de otros paquetes, solo por eso.
 
 ## Nodo Doble
 Dentro del package nodoDoble se encuentran dos tipo de nodos. Aunque son iguales y podria tener el mismo nombre, seria complejo usar el mismo en lista circulares y arboles ya que dentro de esas TDAs funcionan de manera direfente.
+Al igual que el nodos simple, los atributos son publicos para facilitar el acceso de otros paquetes y no que haya
 
 ### Nodo
 Nodo posee un tipo de datos y dos enlaces, al igual que simple, tiene un enlace a siguiente, pero tambien tiene un enlace llamado anterior, que en la TDA apuntaria al nodo que le precede si esta entre dos nodos o en el ultimo eslabon. Si fuese el primer eslabon de la lista circular, anterior apuntaria a null. Igualmente siguiente, si estuviese en el ultimo eslabon, apuntaria a null (si se usase en lista circular, seria otro tema pero aca no se lo implementa).
@@ -60,6 +62,19 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 ## Lista
 
 ![Lista simplemente enlazada](https://user-images.githubusercontent.com/35445409/56856219-2f9ff380-692c-11e9-9d5f-9fa3c6b27ff9.jpg)
+
+### Metodos
+* Crear (Constructor)
+* Vacia
+* Insertar al inicio
+* Insertar al final
+* Recorrer
+* Buscar
+* Ordenar
+* Eliminar
+* Insertar en orden
+* Insertar en orden sin repetidos
+*
 
 ## Lista Circular
 
