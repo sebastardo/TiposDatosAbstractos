@@ -132,6 +132,7 @@ Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene
 
 ## Arbol
 
+*Esta imagen no representa como actual el arbol aqui hecho. Los menores a la raiz van a izquierda, los mayores a la derecha, sera cambiada.*
 
 
 ![Arbol binario](https://user-images.githubusercontent.com/35445409/56869007-ba3a2e80-69d0-11e9-9337-c18016c479f6.jpg)
