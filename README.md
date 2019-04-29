@@ -38,12 +38,17 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ### Metodos
 * Crear (Constructor)
+  - public Pila()
 * Vaciar
+  - public void vaciar()
 * Vacia
+  - public boolean vacia()
 * Poner
+  - public void poner(Object dato)
 * Sacar
+  - public Object sacar()
 * Ver Tope
-
+  - public Object verTope()
 
 *Iba a hacer la pila de tamaño fijo, pero me olvide.*
 
@@ -53,11 +58,17 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 
 ### Metodos
 * Crear (Constructor)
+  - public Cola ()
 * Vaciar
+  - public void vaciar()
 * Vacia
+  - public boolean vacia()
 * Poner
+  - public void poner(Object dato)
 * Sacar
+  - public Object sacar()
 * Ver Primero
+  - public Object verPrimero()
 
 *Al igual que en pila, olvide de hacer la cola de tamaño fijo.*
 
