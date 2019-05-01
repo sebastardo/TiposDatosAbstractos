@@ -87,6 +87,9 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 * Eliminar
 * Insertar en orden
 * Insertar en orden sin repetidos
+* Recorrer de atras hacia adelante
+  - public void recorrerAlReves()
+  - private void desdeAtras(Nodo l)
 * isOrder
 * getTamanio
 * Mayor Menor Igual
@@ -132,7 +135,7 @@ Empece haciendo esta lista y despues me di cuenta que queria hacer que se ordene
 
 ## Arbol
 
-*Esta imagen no representa como actual el arbol aqui hecho. Los menores a la raiz van a izquierda, los mayores a la derecha, sera cambiada.*
+*Esta imagen no representa como actúa el arbol aqui hecho. Los menores a la raiz van a izquierda, los mayores a la derecha. Prometo cambiar la imagen en algun momento.*
 
 
 ![Arbol binario](https://user-images.githubusercontent.com/35445409/56869007-ba3a2e80-69d0-11e9-9337-c18016c479f6.jpg)
