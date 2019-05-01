@@ -286,7 +286,28 @@ public class Lista {
 
     }
 
+    /**
+     * Metodo para llamar al metodo privado para recorrer la lista desde atras hacia adelante sin
+     *  acceder al nodo.
+     */
+    public void recorrerAlReves(){
 
+        desdeAtras(lista);
+    }
+
+    /**
+     * Imprimir de atras hacia adelante.
+     * Va hacia el final e imprime de atras adelante. Privado para que no tener acceso al nodo desde afuera.
+     * @param l nodo de la lista.
+     */
+    private void desdeAtras(Nodo l){
+        if(l.siguiente==null){
+            System.out.println(l.dato.toString());
+        } else {
+            desdeAtras(l.siguiente);
+            System.out.println(l.dato.toString());
+        }
+    }
 
 
     /**
