@@ -308,6 +308,19 @@ public class Lista {
             System.out.println(l.dato.toString());
         }
     }
+    
+    /**
+     * Metodo para sacar datos de la lista.
+     * Deveuelve el primer dato de la lista y lo elimina. A diferencia del metodo eliminar, este no busca dato.
+     * @return
+     */
+    public Object sacar(){
+        if(lista==null)
+            return null;
+        Nodo aux = lista;
+        lista = lista.siguiente;
+        return aux.dato;
+    }
 
 
     /**
