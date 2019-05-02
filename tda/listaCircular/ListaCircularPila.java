@@ -8,7 +8,7 @@ import tda.nodoSimple.Nodo;
  * @author Sebastian Rossi
  */
 public class ListaCircularPila {
-    private static Nodo lista;
+    private Nodo lista;
 
     public ListaCircularPila() {
         lista=null;
