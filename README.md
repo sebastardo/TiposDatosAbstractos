@@ -90,6 +90,8 @@ Como los otros nodos, consta del objeto dato y dos enlaces, izquierdo y derecho,
 * Recorrer de atras hacia adelante
   - public void recorrerAlReves()
   - private void desdeAtras(Nodo l)
+* Sacar
+  - public Object sacar()
 * isOrder
 * getTamanio
 * Mayor Menor Igual
