@@ -20,7 +20,7 @@ import tda.nodoDoble.Nodo;
  */
 
 public class ListaDoblementeEnlazada {
-    private static Nodo listaD;
+    private Nodo listaD;
 
     public ListaDoblementeEnlazada() {
         listaD=null;
