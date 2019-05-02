@@ -21,7 +21,7 @@ import tda.nodoDoble.Nodo;
 
 public class ListaDoblementeEnlazadaDesordenada {
 
-    private static Nodo listaD;
+    private Nodo listaD;
 
     /**
      * Constructor que inicializa la lista
