@@ -8,7 +8,7 @@ import tda.nodoSimple.Nodo;
  * @author Sebastian Rossi
  */
 public class Pila {
-   private static Nodo pila;
+   private Nodo pila;
 
     public Pila() {
         pila=null;
