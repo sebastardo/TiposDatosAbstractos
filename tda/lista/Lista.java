@@ -12,7 +12,7 @@ public class Lista {
     private boolean orden;
     private int tamanio;
     //puntero de la lista
-    private static Nodo lista;
+    private Nodo lista;
 
 
     /**
