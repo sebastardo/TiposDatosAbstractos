@@ -7,8 +7,8 @@ import tda.nodoSimple.Nodo;
  * @author Sebastian Rossi
  */
 public class Cola {
-    private static Nodo primero;
-    private static Nodo ultimo;
+    private Nodo primero;
+    private Nodo ultimo;
 
     public Cola() {
         primero=null;
